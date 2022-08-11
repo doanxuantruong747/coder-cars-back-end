@@ -1,0 +1,373 @@
+[{
+  "_id": {
+    "$oid": "62f36c07eef8644ec85e48ae"
+  },
+  "name": "Subaru 1",
+  "model": "XV Crosstrek",
+  "style": "4dr SUV",
+  "size": "Compact",
+  "transmissionType": "MANUAL",
+  "price": 21995,
+  "year": 2014,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36c3beef8644ec85e48b0"
+  },
+  "name": "GMC Yukon",
+  "model": "XL",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 70220,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36c5deef8644ec85e48b2"
+  },
+  "name": "GMC",
+  "model": "Yukon",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 50740,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36c6feef8644ec85e48b4"
+  },
+  "name": "GMC",
+  "model": "Yukon Hybrid",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 51610,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36c96eef8644ec85e48b6"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 16555,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36d63eef8644ec85e48bc"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "MANUAL",
+  "price": 14895,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36da5eef8644ec85e48be"
+  },
+  "name": "Toyota ",
+  "model": " Yaris Ally",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 15620,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36dd6eef8644ec85e48c0"
+  },
+  "name": "GMC ",
+  "model": " Yukon XL",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 61925,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36df8eef8644ec85e48c2"
+  },
+  "name": "Toyota  ",
+  "model": " Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 16910,
+  "year": 2017,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f36e40eef8644ec85e48c4"
+  },
+  "name": "GMC",
+  "model": " Yukon",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 50740,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f37149ba3e8eafcbbb2cca"
+  },
+  "name": "Toyota  ",
+  "model": " Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "MANUAL",
+  "price": 15250,
+  "year": 2017,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f37174ba3e8eafcbbb2ccc"
+  },
+  "name": "Subaru",
+  "model": "  XV Crosstrek",
+  "style": "4dr SUVk",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 25995,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f371dcba3e8eafcbbb2cce"
+  },
+  "name": "Toyota ",
+  "model": "  Yaris",
+  "style": "4dr SUVk",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 17670,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f371f6ba3e8eafcbbb2cd0"
+  },
+  "name": "Subaru ",
+  "model": "  XV Crosstrek",
+  "style": "4dr SUVk",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 29295,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f37218ba3e8eafcbbb2cd2"
+  },
+  "name": "Toyota",
+  "model": "Yaris Ally",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 15620,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f3726eba3e8eafcbbb2cd4"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 16555,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f37285ba3e8eafcbbb2cd6"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 16910,
+  "year": 2017,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f372ecba3e8eafcbbb2cd8"
+  },
+  "name": "Toyota ",
+  "model": "Yaris Ally",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 15620,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f3730aba3e8eafcbbb2cda"
+  },
+  "name": "GMC ",
+  "model": "Yukon",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 48315,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f37333ba3e8eafcbbb2cdc"
+  },
+  "name": "GMC ",
+  "model": "Yukon Hybrid",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 54420,
+  "year": 2011,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f434690467c8bf568c13e2"
+  },
+  "name": "Toyota",
+  "model": "Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 16555,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f43872120fbcd00f5d4a24"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "4dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 17670,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f469efde4f01bd6f1a2208"
+  },
+  "name": "GMC ",
+  "model": "Yukon Hybrid",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 54420,
+  "year": 2011,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f480a848278f9cfc5c3aad"
+  },
+  "name": "GMC",
+  "model": "Yukon Hybrid",
+  "style": " 4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 61770,
+  "year": 2011,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f4823a48278f9cfc5c3ab8"
+  },
+  "name": "GMC ",
+  "model": "Yukon",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 2015,
+  "year": 2015,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f482f148278f9cfc5c3abb"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "4dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 15995,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f48ac548278f9cfc5c3afe"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "4dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 16930,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f48b0148278f9cfc5c3b01"
+  },
+  "name": "GMC",
+  "model": "Yukon",
+  "style": "4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 68325,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f48b3348278f9cfc5c3b06"
+  },
+  "name": "GMC ",
+  "model": "Yukon XL",
+  "style": " 4dr SUV",
+  "size": "Large",
+  "transmissionType": "AUTOMATIC",
+  "price": 54230,
+  "year": 2017,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f48b5f48278f9cfc5c3b09"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": " 2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 16555,
+  "year": 2016,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f48b9248278f9cfc5c3b0d"
+  },
+  "name": "Toyota ",
+  "model": "Yaris",
+  "style": "2dr Hatchback",
+  "size": "Compact",
+  "transmissionType": "AUTOMATIC",
+  "price": 15570,
+  "year": 2015,
+  "__v": 0
+}]
