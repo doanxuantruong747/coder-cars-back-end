@@ -13,6 +13,7 @@ carController.createCar = async (req, res, next) => {
         }
         //always remember to control your inputs
         if (!info) throw new AppError(402, "Bad Request", "Create Car Error")
+
         //mongoose query
         const created = await Car.create(info)
 
@@ -47,7 +48,7 @@ carController.getAllCar = async (req, res, next) => {
 
         let result = {}
         //mongoose query
-        let listOfFound = await Car.find(result)
+        let listOfFound = await Car.find(result).sort({ _id: -1 })
 
         let offset = limit * (page - 1);
 
